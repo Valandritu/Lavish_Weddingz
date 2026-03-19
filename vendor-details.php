@@ -448,7 +448,7 @@ if(isset($_POST['feedbackbtn']))
         });
     }
     </script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCvZiQwPXkkIeXfAn-Cki9RZBj69mg-95M&amp;callback=initMap">
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=REMOVED">
     </script>
     <script src="js/jquery.rateyo.min.js"></script>
     <script>
