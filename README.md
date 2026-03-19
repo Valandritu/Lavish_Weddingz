@@ -4,7 +4,6 @@
 
 Lavish Weddingz is a web-based platform that helps users find, compare, and book the best wedding vendors with ease. It simplifies wedding planning through a smooth and user-friendly digital experience.
 
----
 
 ## 🚀 Features
 
@@ -14,7 +13,6 @@ Lavish Weddingz is a web-based platform that helps users find, compare, and book
 * 📅 Online Booking System
 * 📝 Wedding Blogs
 
----
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +21,6 @@ Lavish Weddingz is a web-based platform that helps users find, compare, and book
 * **Database:** MySQL
 * **Server:** XAMPP
 
----
 
 ## 👥 Users
 
@@ -31,7 +28,6 @@ Lavish Weddingz is a web-based platform that helps users find, compare, and book
 * **Client** – Searches and books vendors
 * **Vendor** – Handles profile & bookings
 
----
 
 ## 📌 Project Highlights
 
